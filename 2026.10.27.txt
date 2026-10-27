@@ -1,1 +1,10 @@
-Hello World
+2026.10.27 Kant 2일차.
+
+오늘은 git의 push까지의 과정과 github의 리포지토리를 생성하고 별명을 붙이고 삭제하는 법등을 배웠다.
+
+
+***키워드***
+- git remote add "별명" "리포지토리 url"(origin으로 하는게 관례이다.)
+- git remote remove "별명"으로 지울수있다.
+- git remote -v로 별명을 확인할수 있다.
+- push를 할때는 git push "별명" "브랜치명"으로 하는게 관리하는데 좀더 좋다.
